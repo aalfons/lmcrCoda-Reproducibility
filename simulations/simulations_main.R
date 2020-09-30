@@ -11,12 +11,8 @@ library("robCompositions")
 library("robustHD")
 
 ## load required functions and packages
-devtools::source_url(
-  "https://raw.github.com/aalfons/lmcrCoda/master/lmcrCoda.R"
-)
-devtools::source_url(
-  "https://raw.github.com/aalfons/shootingS/master/functions_shootingS.R"
-)
+source("code/lmcrCoda.R")
+source("code/shootingS.R")
 library("mvtnorm")
 library("robreg3S")
 options(warn = 1)  # show warnigns immediately

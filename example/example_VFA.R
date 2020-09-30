@@ -5,9 +5,7 @@
 
 
 # load functions and packages
-devtools::source_url(
-  "https://raw.github.com/aalfons/lmcrCoda/master/lmcrCoda.R"
-)
+source("code/lmcrCoda.R")
 library("VIM")
 library("microbenchmark")
 
