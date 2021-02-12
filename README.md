@@ -3,11 +3,11 @@
 ## About this repository
 
 This repository provides a collection of [R](https://CRAN.R-project.org/) 
-scripts to reproduce all examples, simulations and figures from the manuscript:  
+scripts to reproduce all examples, simulations and figures from the article:  
 
 N. Stefelova, A. Alfons, J. Palarea-Albaladejo, P. Filzmoser and K. Hron.
 Robust regression with compositional covariates including cellwise outliers.
-Under review.
+*Advances in Data Analysis and Classification*, accepted for publication.
 
 Please note that this repository is rather large because it also contains R 
 data files with all simulation results.  This way, if you only want to quickly
