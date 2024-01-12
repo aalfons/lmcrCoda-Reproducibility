@@ -5,9 +5,10 @@
 This repository provides a collection of [R](https://CRAN.R-project.org/) 
 scripts to reproduce all examples, simulations and figures from the article:  
 
-[N. Stefelova, A. Alfons, J. Palarea-Albaladejo, P. Filzmoser and K. Hron (2021).
+N. Stefelova, A. Alfons, J. Palarea-Albaladejo, P. Filzmoser and K. Hron (2021).
 Robust regression with compositional covariates including cellwise outliers.
-*Advances in Data Analysis and Classification*, 15(4), 869-909.](https://doi.org/10.1007/s11634-021-00436-9)
+*Advances in Data Analysis and Classification*, 15(4), 869-909. 
+doi: [10.1007/s11634-021-00436-9](https://doi.org/10.1007/s11634-021-00436-9)
 
 Please note that this repository is rather large because it also contains R 
 data files with all simulation results.  This way, if you only want to quickly
